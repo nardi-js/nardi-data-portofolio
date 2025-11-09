@@ -30,9 +30,7 @@ Each project folder includes:
 │   ├── 🧾 project_report.pdf
 │   └── 📘 README.md
 └── 📂 ... (additional projects will be added here)
-
-    
-
+```
 ---
 
 ## 🧠 Skills Demonstrated
