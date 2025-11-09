@@ -11,23 +11,26 @@ Each project folder includes:
 
 ---
 
+
 ## 🗂️ Repository Structure
 
-nardi-data-portfolio/
-├── 01_data_audit_project/
-│ ├── data_audit.ipynb
-│ ├── transactions.csv
-│ ├── Data_Audit_Report.pdf
-│ └── README.md
-├── 02_sales_forecasting/
-│ ├── forecast_model.ipynb
-│ ├── sales_data.csv
-│ └── README.md
-├── 03_customer_segmentation/
-│ ├── clustering.ipynb
-│ └── report.pdf
-└── 04_visual_dashboard/
-└── powerbi_dashboard.pbix
+📁 nardi-data-portfolio/
+├── 📂 01_data_audit_project/
+│   ├── 📓 data_audit.ipynb
+│   ├── 📊 transactions.csv
+│   ├── 🧾 Data_Audit_Report.pdf
+│   └── 📘 README.md
+├── 📂 02_sales_forecasting/
+│   ├── 📓 forecast_model.ipynb
+│   ├── 📈 sales_data.csv
+│   └── 📘 README.md
+├── 📂 03_customer_segmentation/
+│   ├── 📓 clustering.ipynb
+│   └── 🧾 report.pdf
+└── 📂 04_visual_dashboard/
+    └── 📊 powerbi_dashboard.pbix
+
+    
 
 ---
 
@@ -62,9 +65,11 @@ It serves as evidence of my technical growth and problem-solving ability in data
 
 ## 📬 Contact
 For collaboration or inquiries, feel free to reach out via:
-- **GitHub:** [github.com/nardi](https://github.com/nardi-js)
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+
+- 💻 **GitHub:** [github.com/nardi-js](https://github.com/nardi-js)  
+- 💼 **LinkedIn:** [linkedin.com/in/nardi-js](https://www.linkedin.com/in/nardi-js)  
+- 🌐 **Website:** [nardi-2e19b.web.app](https://nardi-2e19b.web.app)
 
 ---
 
-⭐ *If you found my projects insightful, feel free to star this repository an
+⭐ *If you found my projects insightful, feel free to star this repository and follow my data journey!*
