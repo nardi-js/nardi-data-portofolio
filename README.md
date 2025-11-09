@@ -14,21 +14,22 @@ Each project folder includes:
 
 ## 🗂️ Repository Structure
 
+```text
 📁 nardi-data-portfolio/
-├── 📂 01_data_audit_project/
-│   ├── 📓 data_audit.ipynb
-│   ├── 📊 transactions.csv
-│   ├── 🧾 Data_Audit_Report.pdf
+├── 📂 01_project_name/
+│   ├── 📓 main_notebook.ipynb
+│   ├── 📊 dataset.csv
+│   ├── 🧾 report.pdf
 │   └── 📘 README.md
-├── 📂 02_sales_forecasting/
-│   ├── 📓 forecast_model.ipynb
-│   ├── 📈 sales_data.csv
+├── 📂 02_project_name/
+│   ├── 📓 analysis_notebook.ipynb
+│   ├── 📊 data_source.csv
 │   └── 📘 README.md
-├── 📂 03_customer_segmentation/
-│   ├── 📓 clustering.ipynb
-│   └── 🧾 report.pdf
-└── 📂 04_visual_dashboard/
-    └── 📊 powerbi_dashboard.pbix
+├── 📂 03_project_name/
+│   ├── 📓 notebook.ipynb
+│   ├── 🧾 project_report.pdf
+│   └── 📘 README.md
+└── 📂 ... (additional projects will be added here)
 
     
 
